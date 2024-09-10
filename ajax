@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dhruv Chandarana",
+    "username": "dhruv123",
+    "email": "dhruvchandarana@gmail.com",
+    "address": {
+      "street": "123 Elm Street"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Heet Joshi",
+    "username": "heet456",
+    "email": "heetjoshi@gmail.com",
+    "address": {
+      "street": "456 Oak Avenue"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sarvam Patel",
+    "username": "sarvam789",
+    "email": "sarvampatel@gmail.com",
+    "address": {
+      "street": "789 Pine Road"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Krish Kumar",
+    "username": "krish012",
+    "email": "krishkumar@gmail.com",
+    "address": {
+      "street": "012 Maple Lane"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dev Sharma",
+    "username": "dev345",
+    "email": "devsharma@gmail.com",
+    "address": {
+      "street": "345 Birch Drive"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ansh Mehta",
+    "username": "ansh678",
+    "email": "anshmehta@gmail.com",
+    "address": {
+      "street": "678 Cedar Blvd"
+    }
+  }
+]
