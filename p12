@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Sarvam Sareriya",
+    "username": "sarvam251",
+    "email": "sarvam@gmail.com",
+    "address": {
+      "city": "Rajkot"
+    }
+  }
+]
